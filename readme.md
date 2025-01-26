@@ -68,6 +68,14 @@ python manage.py runserver
 - Bulk download of all processed images
 - Delete individual or all images
 
+## Screenshots
+
+### Upload Interface
+![Upload Interface](screenshots/s1.png)
+
+### Processing Results
+![Processing Results](screenshots/s2.png)
+
 ## Additional Notes
 
 - Processed images are stored in the `media/` directory
